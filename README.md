@@ -31,6 +31,8 @@ Touching at the top-left corner will bring up a menu. The menu lets you
 
 Most of this is N/A if there is no RTC present (see `CFG_HAVE_RTC`). I made a simple laser-cut "monitor facade which clamps over the LCD & Uno.  The Python code for this and other resources are in the `resources` folder.
 
+[Hackaday project](https://hackaday.io/project/204504-ameagreball)
+
 [Flickr Album](https://flic.kr/s/aHBqjCAKys)
 
 [YouTube demo](https://youtu.be/Nls-YfQCngo?si=pPy6MmNiFAVAdqMV)
